@@ -62,5 +62,4 @@ def main():
         html = get_html(pu)
         get_page_data(html)
 
-
 main()
